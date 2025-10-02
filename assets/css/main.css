@@ -1705,7 +1705,7 @@ color: black;
 font-style: italic;
 }
 
-<style>
+
   /* Style the whole schedule section */
   .schedule-section {
     background: #f8f9fa;   /* light background */
@@ -1733,4 +1733,4 @@ font-style: italic;
     padding: 10px;
     border-bottom: 1px solid #ddd;
   }
-</style>
+
